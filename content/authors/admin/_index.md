@@ -124,6 +124,9 @@ user_groups:
   <h1>Welcome to my website</h1>
 </div>
 
+<div style="text-align: center; margin: 2rem 0; padding: 1rem; background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 4px;">
+  <p style="color: #856404; margin: 0;">⚠️ Note: This website is no longer actively maintained. Last updated: June 11, 2022</p>
+</div>
 
 I am a macroeconomist and Research Associate in the Department of Economics, Lancaster University. My primary research interests include theoretical and applied macroeconomics focused on the real estate markets. In particular, I examine the business cycle, property-price and investment dynamics when there is competition between households and firms for real estate. My secondary research interests focuses on explosive dynamics and asset predictability.
 
