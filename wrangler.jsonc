@@ -1,0 +1,9 @@
+{
+  "name": "kvasilopoulos-academic",
+  "compatibility_date": "2026-11-01",
+  // Hugo build output (command: hugo, HUGO_VERSION=0.110.0) served as Workers assets
+  "assets": { "directory": "./public", "not_found_handling": "404-page" },
+  "routes": [
+    { "pattern": "academic.kvasilopoulos.com", "custom_domain": true }
+  ]
+}
