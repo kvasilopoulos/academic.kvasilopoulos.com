@@ -1,6 +1,6 @@
 # Personal website 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1ce17f1a-ece5-4937-80b1-69622939ff7f/deploy-status)](https://app.netlify.com/sites/kvasilopoulos/deploys)
+Hosted on Cloudflare Workers as static assets (`wrangler.jsonc`, serving `public/`). Every push to `main` is built by Cloudflare Workers Builds with extended Hugo (`npx --yes hugo-extended@0.110.0`; the theme needs the extended edition) and deployed with `npx wrangler deploy`.
 
 
 The website powered by [Hugo](https://gohugo.io/) and adapted from the [Academic theme](https://sourcethemes.com/academic/).
