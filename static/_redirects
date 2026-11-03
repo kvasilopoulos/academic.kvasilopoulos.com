@@ -1,0 +1,5 @@
+# Netlify matched these case-insensitively; Cloudflare assets are case-sensitive
+/publication/SHM/index/ /publication/shm/index/ 301
+/publication/SHM/ /publication/shm/ 301
+/publication/AHpremia/index/ /publication/ahpremia/index/ 301
+/publication/AHpremia/ /publication/ahpremia/ 301
